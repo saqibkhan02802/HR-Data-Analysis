@@ -1,2 +1,12 @@
 # HR-Data-Analysis
-Exploratory Data Analysis (EDA) and Feature Engineering is done. Model Creation and Model Training for the prediction of the employees who will leave the company
+### What is done in this project?
+#### Data Cleansing
+#### Exploratory Data Analysis
+#### Data Visualisation using matplotlib and seaborn
+#### Removing NaN values
+#### Data Handling
+#### Model Creation and Training
+#### Feature Engineering
+#### Random Forest Classification
+#### Decision tree Classification
+#### Prediction regarding the targeted column
